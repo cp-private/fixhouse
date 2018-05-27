@@ -1,6 +1,5 @@
 <template lang="pug">
   div.black {{a}}
-    el-button(@click="alert(111)") 测试element.ui
 </template>
 <script>
 export default {

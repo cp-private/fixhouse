@@ -5,6 +5,7 @@ import IndexVue from '@/pageview/index'
 Vue.use(Router)
 
 export default new Router({
+  linkActiveClass: 'weui-bar__item_on',
   routes: [
     {
       path: '/',

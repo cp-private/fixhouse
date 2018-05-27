@@ -1,0 +1,16 @@
+.quick-link {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    left: 0;
+    bottom: 0;
+
+    .weui-tabbar {
+        height: 100%;
+    }
+
+    .weui-tabbar__label {
+        height: 100%;
+        line-height: 45px;
+    }
+}
